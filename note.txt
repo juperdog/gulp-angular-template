@@ -1,0 +1,22 @@
+angular-animate /
+angular-aria /
+angular-breadcrumb /
+angular-cookies /
+angular-loader /
+angular-message /
+angular-mocks /
+angular-ngStorage X  -> bower install ngstorage 
+angular-ocLazyLoad /
+angular-resource /
+angular-sanitize /
+angular-scenario /
+angular-touch /
+angular-ui-bootstrap X
+angular-ui-router /
+angular-ui-utils /
+angular /
+angular-smart-table /
+ng-file-upload /
+ng-file-upload-shim /
+eonasdan-bootstrap-datetimepicker /
+ui-select /
